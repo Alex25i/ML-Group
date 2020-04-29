@@ -130,3 +130,6 @@ dmypy.json
 
 # dolfin file browser
 **/.directory
+
+# PyCharm IDE
+.idea
